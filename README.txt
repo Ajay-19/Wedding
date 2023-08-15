@@ -1,9 +1,9 @@
 
 TITLE: 
-Wedding - 100% Fully Responsive Free HTML5 Bootstrap Template
+Sreelekha's Weddding Invitataion
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+DESIGNED & DEVELOPED By Siddu
 
 Website: http://gettemplates.co/
 Twitter: http://twitter.com/gettemplatesco
